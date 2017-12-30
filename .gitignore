@@ -1,3 +1,4 @@
+*.gif
 *.sw*
 _site/
 .sass-cache/
