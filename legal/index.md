@@ -5,14 +5,10 @@ subtitle: "Updated March 2015"
 skip_footer: true
 ---
 
-**ÄLG Logo** adapted from Tavern Sign designed by [Andrew Hainen][ah] from the [Noun Project][noun].
+**Theme** adapted from Matt Swanson's [blog][ms] and **logo** from Ethylene designed by [Hamish Buchanan][hb] from the [Noun Project][noun].
 
-[ah]: http://www.thenounproject.com/ahainen
+[ms]: http://mdswanson.com
+[hb]: http://www.thenounproject.com/hamishbuchanan/
 [noun]: http://www.thenounproject.com
 
-Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
-
-The postings on this site are my own and don't necessarily represent my 
-  employer’s positions, strategies or opinions.
-
-&copy; 2010 &ndash; {{ site.time | date: "%Y" }}, Matt Swanson
+&copy; 2017 &ndash; {{ site.time | date: "%Y" }}, Maxime Vassaux

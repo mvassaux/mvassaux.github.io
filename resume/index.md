@@ -1,6 +1,6 @@
 ---
 layout: post
-title: about
+title: resume
 skip_related: true
 ---
  blabla...

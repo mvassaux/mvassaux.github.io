@@ -35,15 +35,15 @@ header {
       text-decoration: none;
       line-height: $nav-height;
       font-size: .9em;
-      
+
       a {
         color: $accent-color;
-      
-        &:hover { 
+
+        &:hover {
           color: darken($accent-color, 15);
         }
       }
-      
+
       :after {
         content: " \00b7";
         font-weight: bold;
@@ -157,7 +157,7 @@ article {
     margin: 1em 0;
     list-style: decimal-leading-zero;
   }
-  
+
   pre code {
     border: none;
     font-size: 100%;
@@ -283,7 +283,7 @@ footer {
     margin: 0;
     display: inline;
   }
-  
+
   img {
     margin: 0 auto;
     display: block;
