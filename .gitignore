@@ -3,5 +3,6 @@ _site/
 .sass-cache/
 .DS_Store
 .jekyll-metadata
+*.ai
 .bundle/
 vendor/
