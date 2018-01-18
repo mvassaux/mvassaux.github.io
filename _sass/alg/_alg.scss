@@ -43,16 +43,15 @@ header {
           color: darken($accent-color, 15);
         }
       }
-
-      :after {
-        content: " \00b7";
-        font-weight: bold;
-      }
+      // ::after {
+      //   content: " \00b7";
+      //   font-weight: bold;
+      // }
     }
 
-    li.no-bullet :after {
-      content: none;
-    }
+    // li.no-bullet :after {
+    //   content: none;
+    // }
   }
 }
 
