@@ -23,12 +23,29 @@
   {% endif %}
 </head>
 <body>
+
   <section>
+
+    {% include header.html %}
+
     {{ content }}
+
+    {% unless page.skip_footer %}
+      <hr class="fin"/>
+      {% include footer.html %}
+    {% endunless %}
+
   </section>
 
   {% if site.github %}
     {% include analytics.html %}
   {% endif %}
+
+  <script>
+    // Including JavaScript scripts...
+    {% include js/accrdn.js %}
+  </script>
+
 </body>
+
 </html>
