@@ -6,4 +6,5 @@ _site/
 *.ai
 .bundle/
 *.avi
+*.m4v
 vendor/

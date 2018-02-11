@@ -27,11 +27,10 @@ Postulating migration induced by an off-centred position of the nucleus, we have
 
 <iframe src="https://drive.google.com/file/d/0B4RDr7FXP4QHNE9uamZLMXlJbDQ/preview" width="450" height="300"></iframe>
 
-<video width="400" controls>
+<!-- <video width="400" controls>
   <source src="../../static/neymar.m4v" type="video/m4v">
   Your browser does not support HTML5 video.
-</video>
-
+</video> -->
 Being able to determine systematic preferences of MSCs is a first interesting step, but much remain to be explain, wether such behaviour can be explain by purely physical consideration, or wether it is an active cellular mechanism involving signalling pathways. However, establishing the relation between extracellular cues and lower scale molecular mechanisms is probably the most efficient solution to draw further insights on these behaviours.
 
 ## developments
