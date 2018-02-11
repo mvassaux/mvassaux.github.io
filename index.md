@@ -8,12 +8,12 @@ Over the few research projects I had, the best couple of words I could use to de
 
 [![space-time-classification](/static/space-time-projects.png){: .center-image }](http://example.net/)
 
-** figure: systems modelled on a space vs. time graph **
+<!-- ** figure: systems modelled on a space vs. time graph **
 - clicking on each part of the graph should point to the detailed description of each project
-- the graph should also contain the different softwares I used or developed
+- the graph should also contain the different softwares I used or developed -->
 
 I should tell you here shortly what I have studied during each of these projects: Hysteresis and scale effects in concrete, topography induced migration of mesenchymal stem cells, hierarchical fracture properties of polymer nanocomposites; and how it led me to the design of my own project.
 
 And of course, here I should tell you what this project is about.
 
-** should I do a single or multiple page structure? **
+<!-- ** should I do a single or multiple page structure? ** -->

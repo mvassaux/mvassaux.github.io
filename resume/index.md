@@ -41,6 +41,11 @@ Education
 --------------------
 {: .collapsible}
 
+2017 - 2018
+:   *Post-graduate, University College London* (UK).
+
+    Statistical Analysis of Data and Machine Learning with Big Data
+
 2012 - 2015
 :   *Thèse, École Normale Supérieure de Cachan* (France).
 
@@ -69,7 +74,7 @@ Supervision
 2016
 :   F. Demeusy, *Engineering student (2st year), École Centrale de Marseille* (France).
 
-    Bead-spring modelling of three-dimensional elastic fibrous structures made of electrospun poly($\epsilon$-caprolactone).
+    Bead-spring modelling of three-dimensional elastic fibrous structures made of electrospun poly(ε-caprolactone).
 
 2014
 :   T. Heitz, *Master student (2st year), École Normale Supérieure de Cachan* (France).
@@ -137,6 +142,16 @@ Lattice models applied to cyclic behavior description of quasi-brittle materials
     _International Journal in Numerical and Analytical Methods in Geomechanics_, Volume 39, Issue 7, pages 775-798, May 2015
 {: .content}
 
+Invited conferences
+--------------------
+{: .collapsible}
+
+Heterogeneous Multiscale Modelling for Polymer Nanocomposites.
+:   ***Vassaux, M.**, Richardson, R., Sinclair, R., Suter, J., and Coveney, P.V.*
+
+    _Multiscale Computing, from the Desktop to the Exascale_, Leiden, April 2018
+{: .content}
+
 Computational skills
 --------------------
 {: .collapsible}
@@ -147,7 +162,7 @@ Scientific programming
     I develop code for applications in Finite Element (Cast3M/**F95**, Deal.II/**C++**), Discrete Element simulations (LMGC90/**F95, Python**). I also implemented a software coupling library (DeaLAMMPS/**C++**, **MPI**) for highly parallel computations.
 
 Communication
-:   *Latex, Markdown*
+:   *Latex, Markdown, Illustrator, Photoshop*
 
 Web development
 :   *HTML, CSS, JavaScript, Jekyll, Markdown*

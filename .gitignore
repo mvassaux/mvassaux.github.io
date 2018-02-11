@@ -6,5 +6,4 @@ _site/
 *.ai
 .bundle/
 *.avi
-*.gif
 vendor/

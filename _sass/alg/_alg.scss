@@ -29,12 +29,13 @@ header {
   nav {
     float: right;
     text-align: center;
+    top: 0;
 
     ul li {
       display: inline;
       text-decoration: none;
       line-height: $nav-height;
-      font-size: .9em;
+      font-size: 1.1em;
 
       a {
         color: $accent-color;
@@ -79,7 +80,7 @@ section {
 
 article {
   @include clearfix;
-  text-align: justify;
+  text-align: left;
 
   h1 {
     font-family: $sans-serif-article-2;
@@ -133,11 +134,13 @@ article {
   }
 
   p {
+    text-align: justify;
     font-family: $sans-serif-article;
     line-height: 1.4em;
     font-size: 1.05em;
     font-weight: 300;
     margin-bottom: 1em;
+    text-align: justify;
 
     span {
       font-family: $sans-serif-article-2;
