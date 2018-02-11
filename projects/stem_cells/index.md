@@ -27,6 +27,8 @@ Postulating migration induced by an off-centred position of the nucleus, we have
 
 <iframe src="https://drive.google.com/file/d/0B4RDr7FXP4QHNE9uamZLMXlJbDQ/preview" width="450" height="300"></iframe>
 
+<!-- Do montage with the experimental observation and gif of the movie! -->
+
 <!-- <video width="400" controls>
   <source src="../../static/neymar.m4v" type="video/m4v">
   Your browser does not support HTML5 video.
