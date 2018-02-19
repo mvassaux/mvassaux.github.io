@@ -23,7 +23,7 @@ Modelling MSCs adhesion in hemispheres, and comparing the establishment of force
 
 <div>
   <div style="float: left; width: 50%">
-    <img src="/static/migslalom.gif">
+    <img src="/static/migslalom_2speed.gif">
   </div>
   <div style="float: right; width: 50%">
     <img src="/static/intra-cell_forces_blutens-redcomp.png">
