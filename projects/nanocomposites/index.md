@@ -34,12 +34,12 @@ We mainly focus on fracture properties of polymer nanocomposites. We study how p
 
 Exploring the interaction between mechanisms at different scales, requires either a fine scale model extended up to the coarser scales (in space and time) and an extremely high amount of computational power, or a wise separation of scales in multiple models and still a huge amount of computational power, but reduced enough so that these models can be simulated on the world's biggest supercomputers.
 
-At the moment, I develop a coupling library, simplistically called [DeaLAMMPS](https://github.com/mvassaux/DeaLAMMPS/) based on the Heterogeneous Mutliscale Method, that allows to simulate a atomic and a continuum model concurrently. As such, the two models can exchange mechanical information and therefore we are able to understand how the interplay between the two scales. The coupling is achieved by transfer of homogenised strains and stresses.
+At the moment, I develop a coupling library, simplistically called [DeaLAMMPS](https://github.com/mvassaux/DeaLAMMPS/){: target="_blank"} based on the Heterogeneous Mutliscale Method, that allows to simulate a atomic and a continuum model concurrently. As such, the two models can exchange mechanical information and therefore we are able to understand how the interplay between the two scales. The coupling is achieved by transfer of homogenised strains and stresses.
 
 <!-- <img src="../../static/dogbone.gif" width="400"> -->
 <!-- **video: macroscale dogbone test and nanoscale tensile test** -->
 
-At the nanoscale we have developed an all-atom model of epoxy resin and epoxy resin traversed by a graphene sheet using [LAMMPS](http://lammps.sandia.gov/), a molecular dynamics package. And, at the microscale we have developed continuum two-phase model, which derives stresses at a given strain based on nanoscale simulations. Continuum mechanics equations are solved using [Deal.II](https://www.dealii.org/), a finite element method library.
+At the nanoscale we have developed an all-atom model of epoxy resin and epoxy resin traversed by a graphene sheet using [LAMMPS](http://lammps.sandia.gov/){: target="_blank"}, a molecular dynamics package. And, at the microscale we have developed continuum two-phase model, which derives stresses at a given strain based on nanoscale simulations. Continuum mechanics equations are solved using [Deal.II](https://www.dealii.org/){: target="_blank"}, a finite element method library.
 
 An average two-scale simulation runs for a few tens of thousands of core hours. Thanks to allocations on supercomputers across Europe (ARCHER/UK, SuperMUC/Germany, PROMETHEUS/Poland), such highly parallel workflows are completed in a couple of days.
 

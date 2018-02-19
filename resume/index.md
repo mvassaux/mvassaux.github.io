@@ -10,7 +10,7 @@ skip_related: true
 - separate teaching/supervision and research/education in two pages?
 -->
 
-A relatively factual description of me, which can also be found in a [PDF/Latex](https://www.overleaf.com/read/jrmkkmwpgzdv) format.
+A relatively factual description of me, which can also be found in a [PDF/Latex](https://www.overleaf.com/read/jrmkkmwpgzdv){: target="_blank"} format.
 
 Research
 --------------------
