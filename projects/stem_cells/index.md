@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migration of mesenchymal stem cells
+title: migration of mesenchymal stem cells
 skip_related: true
 ---
 
@@ -21,11 +21,20 @@ The behaviour of mesenchymal stem cells is driven by tremendous variety of physi
 
 Modelling MSCs adhesion in hemispheres, and comparing the establishment of force networks in the cytoskeleton, we have shown that cells are in lower energy state (relaxed) when found in holes instead of on bumps. Hollow areas represent more stable environments, therefore probably more suited for biological purposes such as division, which would benefit from reduced sensitivity to mechanical perturbations [[1]](#pstem).
 
-**figure: force networks on various curvatures**
+<div>
+  <div style="float: left; width: 50%">
+    <img src="/static/migslalom.gif">
+  </div>
+  <div style="float: right; width: 50%">
+    <img src="/static/intra-cell_forces_blutens-redcomp.png">
+  </div>
+</div>
+
+**laziness at its finest**: (left) a mechanical model of cell migration on a sinuous surface showing how stem cells avoid convex, hilly topographies; (right) force network in the cytoskeleton of an adherent cell (blue: tension, red: compression).
+
+---
 
 Postulating migration induced by an off-centred position of the nucleus, we have been able to reproduce consistent migration of adherent cells on sinusoidal topographies. Simulations reproduced experiments realised by L. Pieuchot and shared within the [ANR-SinusSurf](http://www.agence-nationale-recherche.fr/Project-ANR-12-BSV5-0010) collaboration. In silico and in vitro, MSCs were shown to migrate toward hollow areas and, under forced migration, systematically avoiding hills [[2]](#psinus).
-
-<iframe src="https://drive.google.com/file/d/0B4RDr7FXP4QHNE9uamZLMXlJbDQ/preview" width="450" height="300"></iframe>
 
 <!-- Do montage with the experimental observation and gif of the movie! -->
 

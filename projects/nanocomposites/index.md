@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hierarchical toughening of polymer nanocomposites
+title: hierarchical toughening of polymer nanocomposites
 skip_related: true
 ---
 
@@ -19,6 +19,12 @@ skip_related: true
 
 Polymer and derived nanocomposites are hierarchically structured materials. Such materials display a various and specific architecture depending on the scale it is looked at. With an engineering application in mind, each of these architectures can be modified, choosing a specific polymer, or adding tailor-made particles, in order to tweak the physical properties of the resulting material.
 
+<img src="/static/hmm_bicomposite_lo.jpg">
+
+**complex on so many levels**: stress localisation in a continuum piece of graphene epoxy composite; the continuum scale model feeds on two types of atomic systems involving single or double graphene reinforcement; the two types of composites are arranged in a diagonal pattern in the continuum.
+
+---
+
 We model and couple the different scales using the relevant computational techniques, thus we are able to investigate in detail how the addition of nanoparticles impact the behaviour of polymer nanocomposites. While applying loading conditions representative of the engineering continuum scale, we can observe of the different constituents of the material interact at the chemical atomic scale.
 
 We mainly focus on fracture properties of polymer nanocomposites. We study how properties such as elastic modulus, strength and toughness are impacted, by structural heterogeneities at different scales. Currently, we apply our method to the interaction between the polymer cross-linked structure of epoxy at the nanoscale and sheets of graphene that expand up to the microscale.
@@ -30,7 +36,7 @@ Exploring the interaction between mechanisms at different scales, requires eithe
 
 At the moment, I develop a coupling library, simplistically called [DeaLAMMPS](https://github.com/mvassaux/DeaLAMMPS/) based on the Heterogeneous Mutliscale Method, that allows to simulate a atomic and a continuum model concurrently. As such, the two models can exchange mechanical information and therefore we are able to understand how the interplay between the two scales. The coupling is achieved by transfer of homogenised strains and stresses.
 
-<img src="../../static/dogbone.gif" width="400">
+<!-- <img src="../../static/dogbone.gif" width="400"> -->
 <!-- **video: macroscale dogbone test and nanoscale tensile test** -->
 
 At the nanoscale we have developed an all-atom model of epoxy resin and epoxy resin traversed by a graphene sheet using [LAMMPS](http://lammps.sandia.gov/), a molecular dynamics package. And, at the microscale we have developed continuum two-phase model, which derives stresses at a given strain based on nanoscale simulations. Continuum mechanics equations are solved using [Deal.II](https://www.dealii.org/), a finite element method library.
