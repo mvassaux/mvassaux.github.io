@@ -27,7 +27,7 @@ Here is a short description of the research carried during my [Ph.D.](https://ha
 
 Accurate simulation of massive reinforced concrete structures facing cyclic loading such as containment walls in nuclear power plants during a earthquake, requires precise and stable constitutive models that can be used jointly with finite element models. One of their key features is their ability to reproduce the amount of dissipated energy partly due to fracture and partly due to mechanisms associated to oscillatory loadings.
 
-<img src="/static/soutenance_nobkg.001.jpeg" class="full-width">
+<img src="/static/soutenance.001.jpeg" class="full-width">
 **pathway to simulating a nuclear power-plant**: methodology to predict the stability of high-risk reinforced concrete buildings facing earthquakes from rare experimental data.
 
 ---
