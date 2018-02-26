@@ -47,7 +47,7 @@ Being able to determine systematic preferences of MSCs is a first interesting st
 ## developments
 {: name="devs"}
 
-All the required pieces of software that I used to develop the stem cell mechanical model could be found in the [LMGC90](https://git-xen.lmgc.univ-montp2.fr/lmgc90/lmgc90_user/wikis/home){: target="_blank"} library. The model itself was based on the tensegrity theory that describes the cytoskeleton as an assembly of load bearing beams and initially tensed cables.
+All the required pieces of software that I used to develop the stem cell mechanical model could be found in the [LMGC90](https://git-xen.lmgc.univ-montp2.fr/lmgc90/lmgc90_user/wikis/home){: target="_blank"} library. The cell model itself has been built using the tensegrity theory which describes the cytoskeleton as an assembly of load bearing beams and initially tensed cables. The [implementation](https://github.com/mvassaux/adhSC) of the model has been calibrated and checked against experiments as part of a publication [[1]](#pstem).
 
 ## publications
 {: name="publications"}
