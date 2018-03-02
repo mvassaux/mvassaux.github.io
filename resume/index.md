@@ -171,7 +171,7 @@ Software management
 :   *Git, CMake*
 
 Data analysis
-:   *Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn)*
+:   *Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, tensorflow)*
 
-    I have a long experience in using the wide range of Python libraries to perform analysis (**pandas**, **numpy**, **scipy**) and visualisation (**matplotlib**, **seaborn**) of large amounts of simulation results. Also, switching from a physics-based to a data-based modelling approach, I have also an experience with Python statistical inference tools (**scikit-learn**).
+    I have a long experience in using the wide range of Python libraries to perform analysis (**pandas**, **numpy**, **scipy**) and visualisation (**matplotlib**, **seaborn**) of large amounts of simulation results. Also, switching from a physics-based to a data-based modelling approach, I have also an experience with Python statistical inference tools (**scikit-learn**), and more briefly with computational graphs (**TensorFlow**) to handle computations at larger scales.
 {: .content}
