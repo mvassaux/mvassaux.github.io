@@ -205,7 +205,7 @@ footer {
   margin-top: 5px;
 
   #bio {
-    @include span-columns(8);
+    @include span-columns(10);
     display: table;
   }
 
