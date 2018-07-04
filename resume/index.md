@@ -146,15 +146,15 @@ Invited conferences
 --------------------
 {: .collapsible}
 
-Heterogeneous Multiscale Modelling for Polymer Nanocomposites.
+Heterogeneous Multiscale Modelling for Polymer Nanocomposites. [[Slides]](https://docs.google.com/presentation/d/1W_NuBf4WgYH31DS7hHUPkFYetx4gH_j2EV4CyXu1G00/edit?usp=sharing)
 :   ***Vassaux, M.**, Richardson, R., Sinclair, R., Suter, J., and Coveney, P.V.*
 
     _Multiscale Computing, from the Desktop to the Exascale_, Leiden, April 2018
 
-Cell biomechanics and multiscale modelling. [Slides](https://docs.google.com/presentation/d/1TtKlL7POdJnh0XVZKx-0cRR4UaM6BktBMzekLArvbEY/edit?usp=sharing)
+Cell biomechanics and multiscale modelling. [[Slides]](https://docs.google.com/presentation/d/1TtKlL7POdJnh0XVZKx-0cRR4UaM6BktBMzekLArvbEY/edit?usp=sharing)
 :   ***Vassaux, M.***
 
-    _Institut de Génétique et Développement de Rennes_, Rennes, 17 May 2018
+    _Institut de Génétique et Développement de Rennes_, Rennes, May 2018
 {: .content}
 
 Computational skills
