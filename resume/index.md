@@ -151,7 +151,7 @@ Heterogeneous Multiscale Modelling for Polymer Nanocomposites.
 
     _Multiscale Computing, from the Desktop to the Exascale_, Leiden, April 2018
 
-Cell biomechanics and multiscale modelling.
+Cell biomechanics and multiscale modelling. [Slides](https://docs.google.com/presentation/d/1TtKlL7POdJnh0XVZKx-0cRR4UaM6BktBMzekLArvbEY/edit?usp=sharing)
 :   ***Vassaux, M.***
 
     _Institut de Génétique et Développement de Rennes_, Rennes, 17 May 2018
