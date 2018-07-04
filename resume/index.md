@@ -150,6 +150,11 @@ Heterogeneous Multiscale Modelling for Polymer Nanocomposites.
 :   ***Vassaux, M.**, Richardson, R., Sinclair, R., Suter, J., and Coveney, P.V.*
 
     _Multiscale Computing, from the Desktop to the Exascale_, Leiden, April 2018
+
+Cell biomechanics and multiscale modelling.
+:   ***Vassaux, M.***
+
+    _Institut de Génétique et Développement de Rennes_, Rennes, 17 May 2018
 {: .content}
 
 Computational skills
