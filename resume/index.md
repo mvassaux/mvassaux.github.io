@@ -117,9 +117,9 @@ Scientific publications
 {: .collapsible}
 
 Curvotaxis directs cell migration through cell-scale curvature landscapes.
-:   *Pieuchot, L., **Vassaux, M.**, Marteau, J., Cloatre, T., Petithory, T., Brigaud, I., Chauvy, P.F., Ponche, A., Milan, J.L., Rougerie, P., Bigerelle, M., Anselme, K.*
+:   *Pieuchot, L., Marteau, J., Guignandon, A., Dos Santos, T., Brigaud, I., Chauvy, P.F., Cloatre, T., Ponche, A., Petithory, T., Rougerie, P., **Vassaux, M.**, Milan, J.L., Wakhloo, N. T., Spangenberg, A., Bigerelle, M., Anselme, K.*
 
-    _Nature Materials_, in review
+    _Nature Communications_, Volume 9, Issue 1, Article 3995, 2018 
 
 Numerical modelling of adherent Mesenchymal Stem Cells mechanical behaviour and substrate's curvature analysis.
 :   ***Vassaux, M.**, Milan, J.-L.*
