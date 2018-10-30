@@ -55,5 +55,5 @@ All the required pieces of software that I used to develop the stem cell mechani
 [1] Maxime Vassaux and Jean-Louis Milan.<br>[*Stem cell mechanical behaviour modelling: substrate’s curvature influence during adhesion.*](https://doi.org/10.1007/s10237-017-0888-4){: target="_blank"}<br>Biomechanics and modeling in mechanobiology, 16 (2017): 1295-1308.
 {: id="pstem"}
 
-[2] Laurent Pieuchot, Maxime Vassaux, Julie Marteau, Thomas Cloatre, Tatania Petithory, Isabelle Brigaud, Pierre-François Chauvy, Arnaud Ponche, Jean-Louis Milan, Pablo Rougerie, Maxence Bigerelle, and Karine Anselme.<br>*Curvotaxis directs cell migration through cell-scale curvature landscapes.*<br>Nature Materials, (2018): *in review*.
+[2] Laurent Pieuchot, Julie Marteau, Alain Guignandon, Thomas Dos Santos, Isabelle Brigaud, Pierre-François Chauvy, Thomas Cloatre, Arnaud Ponche, Tatiana Petithory, Pablo Rougerie, Maxime Vassaux, Jean-Louis Milan, Nayana Tusamda Wakhloo, Arnaud Spangenberg, Maxence Bigerelle and Karine Anselme.<br>[*Curvotaxis directs cell migration through cell-scale curvature landscapes.*](https://doi.org/10.1038/s41467-018-06494-6)<br>Nature Communications 9 (2018), Article number: 3995. 
 {: id="psinus}
