@@ -34,7 +34,7 @@ We mainly focus on fracture properties of polymer nanocomposites. We study how p
 
 Exploring the interaction between mechanisms at different scales, requires either a fine scale model extended up to the coarser scales (in space and time) and an extremely high amount of computational power, or a wise separation of scales in multiple models and still a huge amount of computational power, but reduced enough so that these models can be simulated on the world's biggest supercomputers.
 
-At the moment, I develop a coupling library, simplistically called [DeaLAMMPS](https://github.com/mvassaux/DeaLAMMPS/){: target="_blank"} based on the Heterogeneous Mutliscale Method, that allows to simulate a atomic and a continuum model concurrently. As such, the two models can exchange mechanical information and therefore we are able to understand how the interplay between the two scales. The coupling is achieved by transfer of homogenised strains and stresses.
+At the moment, I develop a coupling library, simplistically called [DeaLAMMPS](https://github.com/mvassaux/DeaLAMMPS/){: target="_blank"} based on the Heterogeneous Mutliscale Method, that allows to simulate a atomic and a continuum model concurrently [[1]](#phmm). As such, the two models can exchange mechanical information and therefore we are able to understand how the interplay between the two scales. The coupling is achieved by transfer of homogenised strains and stresses.
 
 <!-- <img src="../../static/dogbone.gif" width="400"> -->
 <!-- **video: macroscale dogbone test and nanoscale tensile test** -->
@@ -44,3 +44,9 @@ At the nanoscale we have developed an all-atom model of epoxy resin and epoxy re
 An average two-scale simulation runs for a few hundreds of thousands of core hours. Thanks to allocations on supercomputers across Europe (ARCHER/UK, SuperMUC/Germany, PROMETHEUS/Poland), such highly parallel workflows are completed in a couple of days. This work is part of the European project [ComPat](http://www.compat-project.eu/), which aims at identifying patterns in computational workflows and automate the optimisation of their execution on several, distant resources. We took part in the optimisation of computational patterns, where a "master" algorithm relies on operations performed by several instantiations of a "slave" algorithm, launched dynamically. The efficiency of such distributed workflow is guaranteed using a Pilot Job Manager, that executes asynchronously the many instances of the "slave" algorithm, LAMMPS. The scheduling of these independent simulations across several the aforementioned HPC platforms is performed considering the queueing time, the execution time and the energy efficiency of the different platforms.
 
 In attempt to switch from physic-based to data-based modelling, we use gaussian processes, in a first time, to replace partly the execution of the "slave" algorithm. After a certain number of executions the output (stress) of the algorithm given a certain input (strain) can be interpolated simply on prior results. Indeed, reducing drastically the computational costs. This data-driven modelling technique is performed using the [scikit-learn](http://scikit-learn.org) machine learning library. Most of the complexity is induced by the application of such regression technique to highly non-linear physics (fracture), where the features and their similarity are non-obvious.
+
+## publications
+{: name="publications"}
+
+[1] Maxime Vassaux, Robin A. Richardson and Peter V. Coveney.<br>[*The heterogeneous multiscale method applied to inelastic polymer mechanics.*](https://doi.org/10.1098/rsta.2018.0150){: target="_blank"}<br>Philosophical Transactions of the Royal Society A, 377, 2142 (2019).
+{: id="phmm"}
