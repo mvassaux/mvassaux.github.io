@@ -116,8 +116,25 @@ Scientific publications
 --------------------
 {: .collapsible}
 
+A biophysical model for curvature-guided cell migration.
+:   ***Vassaux, M.**, Milan, J.-L.*, Bigerelle, M., Anselme, K., Pieuchot, L.*
+
+    _Biphysical Journal_, _In Press_, 2019
+
+The Role of Graphene in Enhancing the Material Properties of Thermosetting Polymers.
+:   ***Vassaux, M.**, Sinclair, R.C., Richardson, R.A., Suter, J.L., Coveney, P.V.*
+
+    _Advanced Theory and Simulations_, Volume 2 (5), 1800168, 2019
+
+The heterogeneous multiscale method applied to inelastic polymer mechanics.
+:   ***Vassaux, M.**, Richardson, R.A., Coveney, P.V.*
+
+    _Philosophical Transactions of the Royal Society A_, Volume 377 (2142), 20180150, 2018 
+    
+Philosophical Transactions of the Royal Society A 377 (2142), 20180150
+
 Curvotaxis directs cell migration through cell-scale curvature landscapes.
-:   *Pieuchot, L., Marteau, J., Guignandon, A., Dos Santos, T., Brigaud, I., Chauvy, P.F., Cloatre, T., Ponche, A., Petithory, T., Rougerie, P., **Vassaux, M.**, Milan, J.L., Wakhloo, N. T., Spangenberg, A., Bigerelle, M., Anselme, K.*
+:   *Pieuchot, L., Marteau, J., Guignandon, A., Dos Santos, T., Brigaud, I., Chauvy, P.F., Cloatre, T., Ponche, A., Petithory, T., Rougerie, P., **Vassaux, M.**, Milan, J.-L., Wakhloo, N. T., Spangenberg, A., Bigerelle, M., Anselme, K.*
 
     _Nature Communications_, Volume 9, Article 3995, 2018 
 
