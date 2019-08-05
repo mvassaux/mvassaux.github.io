@@ -117,7 +117,7 @@ Scientific publications
 {: .collapsible}
 
 A biophysical model for curvature-guided cell migration.
-:   ***Vassaux, M.**, Milan, J.-L., Bigerelle, M., Anselme, K., Pieuchot, L.*
+:   ***Vassaux, M.**, Pieuchot, L., Anselme, K., Bigerelle, M., Milan, J.-L.*
 
     _Biophysical Journal_, _In Press_, 2019
 
