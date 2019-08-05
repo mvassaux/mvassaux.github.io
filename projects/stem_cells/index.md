@@ -34,7 +34,7 @@ Modelling MSCs adhesion in hemispheres, and comparing the establishment of force
 
 ---
 
-Postulating migration induced by an off-centred position of the nucleus, we have been able to reproduce consistent migration of adherent cells on sinusoidal topographies. Simulations reproduced experiments realised by L. Pieuchot and shared within the [ANR-SinusSurf](http://www.agence-nationale-recherche.fr/Project-ANR-12-BSV5-0010){: target="_blank"} collaboration. In silico and in vitro, MSCs were shown to migrate toward hollow areas and, under forced migration, systematically avoiding hills [[2]](#psinus).
+Assuming migration is induced by an off-centred position of the nucleus, we have been able to reproduce consistent migration of adherent cells on sinusoidal topographies. Simulations reproduced experiments realised by L. Pieuchot [[2]](#psinus) and shared within the [ANR-SinusSurf](http://www.agence-nationale-recherche.fr/Project-ANR-12-BSV5-0010){: target="_blank"} collaboration. In silico and in vitro, MSCs were shown to migrate toward hollow areas and, under forced migration, systematically avoiding hills [[3]](#pbiophys). Deeper insights from simulations showed that cell polarization via the off-centred position of the nucleus could be explained by anistropic pressure gradients inside the cytoskeleton originating from the curved substratum.
 
 <!-- Do montage with the experimental observation and gif of the movie! -->
 
@@ -57,3 +57,6 @@ All the required pieces of software that I used to develop the stem cell mechani
 
 [2] Laurent Pieuchot, Julie Marteau, Alain Guignandon, Thomas Dos Santos, Isabelle Brigaud, Pierre-François Chauvy, Thomas Cloatre, Arnaud Ponche, Tatiana Petithory, Pablo Rougerie, Maxime Vassaux, Jean-Louis Milan, Nayana Tusamda Wakhloo, Arnaud Spangenberg, Maxence Bigerelle and Karine Anselme.<br>[*Curvotaxis directs cell migration through cell-scale curvature landscapes.*](https://doi.org/10.1038/s41467-018-06494-6)<br>Nature Communications 9 (2018), Article number: 3995. 
 {: id="psinus}
+
+[3] Maxime Vassaux, Laurent Pieuchot, Karine Anselme, Maxence Bigerelle and Jean-Louis Milan.<br>[*A biophysical model for curvature-guided cell migration.*](https://doi.org/10.1016/j.bpj.2019.07.022){: target="_blank"}<br>Biophysical Journal, In Press (2019).
+{: id="pbiophys"}
