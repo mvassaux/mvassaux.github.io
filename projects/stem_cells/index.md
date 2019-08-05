@@ -42,7 +42,7 @@ Assuming migration is induced by an off-centred position of the nucleus, we have
   <source src="../../static/neymar.m4v" type="video/m4v">
   Your browser does not support HTML5 video.
 </video> -->
-Being able to determine systematic preferences of MSCs is a first interesting step, but much remain to be explain, wether such behaviour can be explain by purely physical consideration, or wether it is an active cellular mechanism involving signalling pathways. However, establishing the relation between extracellular cues and lower scale molecular mechanisms is probably the most efficient solution to draw further insights on these behaviours.
+Being able to determine systematic migration patterns of MSCs is a first interesting step, but much remain to be explain, wether such behaviour can be explain by purely physical consideration, or wether it is an active cellular mechanism involving signalling pathways. Understanding the relation between extracellular cues and lower scale molecular mechanisms will certainly be an efficient solution to draw further insights. Tissue engineering and biomaterials design, via scaffold engineering, could benefit from these advances and provide test cases to validate drawn hypotheses.
 
 ## developments
 {: name="devs"}
