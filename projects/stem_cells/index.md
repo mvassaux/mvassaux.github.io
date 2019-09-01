@@ -14,7 +14,9 @@ skip_related: true
 * recap links at bottom
 -->
 
-## science
+After the defence of my PhD thesis, I continued looking at how particle-based models could be applied to a wider range of materials. I stayed a few more months at the [Laboratoire de Mécanique et Technologie](http://lmt.ens-paris-saclay.fr/){: target="_blank"} to model fracture in masonry, which could be seen as a very organised type of concrete. But I rapidly realised that these methods could be applied to drastically different systems, and actually a living one: stem cells. That is when I joined the [Groupe Interdisciplinaire en Biomécanique Ostéoarticulaire](https://ism.univ-amu.fr/fr/giboc){: target="_blank"} at Aix-Marseille Université.
+
+## the science
 {: name="science"}
 
 The behaviour of mesenchymal stem cells is driven by tremendous variety of physical cues. Among them, mechanical cues, so far proven to influence migration, differentiation, mitosis, and apoptosis. By regulating the shape of cellular constituents, mechanical cues potentially can determine the complete cellular life cycle. Some conditions have been shown to consistently promote identical cellular behaviour. For adherent cells, stiffness or spatial arrangement of the substrate are determinant. Understanding the intermediate consequences of such mechanical constraints, and finally why they promote such final behaviour, are of two main interests in cellular biology: breaking down signalling pathways and set stones of biomedical engineering.
@@ -44,18 +46,18 @@ Assuming migration is induced by an off-centred position of the nucleus, we have
 </video> -->
 Being able to determine systematic migration patterns of MSCs is a first interesting step, but much remain to be explain, wether such behaviour can be explain by purely physical consideration, or wether it is an active cellular mechanism involving signalling pathways. Understanding the relation between extracellular cues and lower scale molecular mechanisms will certainly be an efficient solution to draw further insights. Tissue engineering and biomaterials design, via scaffold engineering, could benefit from these advances and provide test cases to validate drawn hypotheses.
 
-## developments
+## the devs
 {: name="devs"}
 
 All the required pieces of software that I used to develop the stem cell mechanical model could be found in the [LMGC90](https://git-xen.lmgc.univ-montp2.fr/lmgc90/lmgc90_user/wikis/home){: target="_blank"} library. The cell model itself has been built using the tensegrity theory which describes the cytoskeleton as an assembly of load bearing beams and initially tensed cables. The model has been calibrated and checked against experiments as part of a publication [[1]](#pstem), and made available as an open-source [repository](https://github.com/mvassaux/adhSC).
 
-## publications
+## the publications
 {: name="publications"}
 
 [1] Maxime Vassaux and Jean-Louis Milan.<br>[*Stem cell mechanical behaviour modelling: substrate’s curvature influence during adhesion.*](https://doi.org/10.1007/s10237-017-0888-4){: target="_blank"}<br>Biomechanics and modeling in mechanobiology, 16 (2017): 1295-1308.
 {: id="pstem"}
 
-[2] Laurent Pieuchot, Julie Marteau, Alain Guignandon, Thomas Dos Santos, Isabelle Brigaud, Pierre-François Chauvy, Thomas Cloatre, Arnaud Ponche, Tatiana Petithory, Pablo Rougerie, Maxime Vassaux, Jean-Louis Milan, Nayana Tusamda Wakhloo, Arnaud Spangenberg, Maxence Bigerelle and Karine Anselme.<br>[*Curvotaxis directs cell migration through cell-scale curvature landscapes.*](https://doi.org/10.1038/s41467-018-06494-6)<br>Nature Communications 9 (2018), Article number: 3995. 
+[2] Laurent Pieuchot, Julie Marteau, Alain Guignandon, Thomas Dos Santos, Isabelle Brigaud, Pierre-François Chauvy, Thomas Cloatre, Arnaud Ponche, Tatiana Petithory, Pablo Rougerie, Maxime Vassaux, Jean-Louis Milan, Nayana Tusamda Wakhloo, Arnaud Spangenberg, Maxence Bigerelle and Karine Anselme.<br>[*Curvotaxis directs cell migration through cell-scale curvature landscapes.*](https://doi.org/10.1038/s41467-018-06494-6)<br>Nature Communications 9 (2018), Article number: 3995.
 {: id="psinus}
 
 [3] Maxime Vassaux, Laurent Pieuchot, Karine Anselme, Maxence Bigerelle and Jean-Louis Milan.<br>[*A biophysical model for curvature-guided cell migration.*](https://doi.org/10.1016/j.bpj.2019.07.022){: target="_blank"}<br>Biophysical Journal, In Press (2019).

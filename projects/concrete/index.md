@@ -20,12 +20,12 @@ I completed my [Ph.D.](https://hal.archives-ouvertes.fr/tel-01140988){: target="
 
 <!-- **figure: modelling methodology (add links to seism, deap, concyc, cast3m)** -->
 
-## science
+## the science
 {: name="science"}
 
 <!-- <a name="science"></a> -->
 
-The story begins when humanity realises that it would be convenient to know in advance, predict, how containment walls in nuclear power plants behave when an earthquake pops up nearby. With a hint of abstraction, this problem can be rephrased as trying to develop accurate simulations of massive reinforced concrete structures facing cyclic loading paths. One of the key piece of information, these simulations need to provide is *how* cracks form in concrete structures, and more precisely *how much*. Leaks in nuclear power plants containment walls are rarely satisfying...
+Safety first! Thus, the structural integrity of nuclear power plants is deemed important. From that interesting observation, knowing in advance how containment walls in nuclear power plants react to an earthquake popping up nearby is essential. With a hint of abstraction, this problem can be rephrased as trying to develop accurate simulations of massive reinforced concrete structures facing cyclic loading paths. One of the key piece of information these simulations need to provide is *how* cracks form in concrete structures, and more precisely *how much*. Indeed, leaks in nuclear power plants containment walls are rarely a good thing...
 
 The standard method to model such large structures is to consider the whole as a continuum, and therefore apply continuum mechanics. Equilibrium equations are solved using the finite element method, and the behaviour of the material is described using as precise and stable constitutive equations as possible. A key feature of these constitutive equations is their ability to reproduce the amount of dissipated energy partly due to fracture and partly due to mechanisms associated to oscillatory loadings.
 
@@ -50,7 +50,7 @@ Using a microscopic scale model for concrete, assuming homogeneity of the consti
 
 <!-- Well, that is set aside now, scale effects in fracture still have to be figured out. -->
 
-## developments
+## the devs
 {: name="devs"}
 
 On the development side of things, which is what I did most during PhD project, I spent my time developing a microscale model of a batch of concrete. Originally it was an existing lattice model that I extended to a particle-based model, or as we call it now a beam-particle model [[3]](#pbeam). In short, the continuum is discretised using Voronoï tessellation, polygonal particles are initially linked by brittle beams, and upon their failure can interact further by contact and friction. To enhance numerical stability, which was severely impaired by the simultaneous integration of brittle failure, contact and friction, I also redesigned the solution algorithm to solve quasi-static equilibrium [[4]](#plattice).
@@ -58,7 +58,7 @@ On the development side of things, which is what I did most during PhD project, 
 
 Findings on the microscale mechanisms related to cracks closure led us to the formulation of a constitutive model for quasi-brittle materials cyclically loaded with enhanced numerical stability [[2]](#pregul). The model ([source](http://www-cast3m.cea.fr/index.php?page=sources&source=concyc2){: target="_blank"}, [example](http://www-cast3m.cea.fr/index.php?page=exemples&exemple=concyc){: target="_blank"}, [notice](http://www-cast3m.cea.fr/index.php?page=notices&notice=MODE#ENDOMMAGEMENT){: target="_blank"}) is now implemented and available in the open-source structural analysis and fluid mechanics software [Cast3M](http://www-cast3m.cea.fr/){: target="_blank"} based on the finite element method developed at the CEA.
 
-## publications
+## the publications
 {: name="publications"}
 
 [1] Maxime Vassaux, Benjamin Richard, Frédéric Ragueneau, and Alain Millard.<br>[*Compressive behavior of a lattice discrete element model for quasi-brittle materials.*](https://books.google.fr/books?hl=en&lr=&id=0ILMBQAAQBAJ&oi=fnd&pg=PA335&dq=info:EweH1g5_0R4J:scholar.google.com&ots=skSm6VjufF&sig=_Ez0S7tRGUYrDu2sfogG4Dn-9sw&redir_esc=y#v=onepage&q&f=false){: target="_blank"}<br>Computational Modelling of Concrete Structures, 1 (2014): 335-344.

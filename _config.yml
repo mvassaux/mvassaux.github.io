@@ -4,8 +4,9 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-exclude: ["CNAME", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["vendor", "CNAME", "README.md", "Gemfile", "Gemfile.lock"]
 include: []
-gems:
+plugins:
   - jekyll-sitemap
   - jemoji
+  - jekyll-twitter-plugin
