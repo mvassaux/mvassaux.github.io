@@ -4,7 +4,6 @@ title: research interests
 skip_related: true
 ---
 
-{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
 
 To describe my short career in academic research so far, writing a PhD thesis and pursuing a couple of post-doctoral projects, the best words I could use are probably "computational material scientist". I develop and apply computational modelling methods, based on physics and mechanics, to explore and explain how properties or mechanisms emerge in matter across scales. It led me to study a wide spectrum of systems, from [stability of concrete structures under seismic loading](/projects/concrete/), to [migration of mesenchymal stem cells](/projects/stem_cells/), and currently, [failure of polymer nanocomposites](/projects/nanocomposites/).
 
