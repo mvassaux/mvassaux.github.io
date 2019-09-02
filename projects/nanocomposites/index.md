@@ -30,18 +30,21 @@ Polymer and derived nanocomposites are hierarchically structured materials. They
 We model and couple the different scales using the relevant computational techniques, thus we are able to investigate in detail how the addition of nanoparticles impact the behaviour of polymer nanocomposites. While applying loading conditions representative of the engineering continuum scale, we can observe of the different constituents of the material interact at the chemical atomic scale. In turn, we are able to tune and optimise the atomic structure of the material to improve macroscopic properties, such as the fracture toughness.
 
 <div>
-  <div style="float: left; width: 36%">
+  <div style="float: left; width: 50%; padding-bottom: 40px">
     <img src="/static/g1_distribution_shell_web.png">
   </div>
-  <div style="float: left; width: 36%">
+  <div style="float: left; width: 50%; padding-top: 40px">
     <img src="/static/g0_nrep1_impact_25fps.gif">
   </div>
-  <div style="float: left; width: 25%">
+</div>  
+
+<div>
+  <div style="float: right; width: 60%; padding-left: 120px; padding-right: 30px">
     <img src="/static/dropweight_atomistic.gif">
   </div>
 </div>
 
-**let's give it a shot**: simulation of a high-velocity impact on a composite shell made of pure epoxy cells and graphene-epoxy nanocomposite cells (left); the impact produces propagating compression and shear waves in the shell (middle); the atomic structure of the nanocomposite located found at the centre of the shell faces high-frequency oscillations of mixed strains.
+**let's give it a shot**: simulation of a high-velocity impact on a composite shell made of pure epoxy cells and graphene-epoxy nanocomposite cells (top, left); the impact produces propagating compression and shear waves in the shell (top, right); the atomic structure of the nanocomposite located found at the centre of the shell faces high-frequency oscillations of mixed strains (bottom).
 
 ---
 

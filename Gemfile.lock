@@ -244,6 +244,7 @@ DEPENDENCIES
   bitters
   bourbon
   github-pages
+  jekyll-sitemap
   jekyll-twitter-plugin
   neat
   rake

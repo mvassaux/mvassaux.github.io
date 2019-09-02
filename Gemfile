@@ -8,3 +8,4 @@ gem "neat"
 gem "bitters"
 
 gem 'jekyll-twitter-plugin'
+gem 'jekyll-sitemap'
