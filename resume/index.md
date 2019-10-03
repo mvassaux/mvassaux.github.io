@@ -16,10 +16,10 @@ Research
 --------------------
 {: .collapsible}
 
-2017 - 2018
+2017 - Present
 :   *Post-doctorate Research Assistant at the Centre for Computational Science, Department of Chemistry, University College London* (UK).
 
-    Multiscale modelling of polymer nanocomposites mechanical properties and fracture behaviour.
+    Multiscale modelling of graphene-based polymer nanocomposites mechanical properties and fracture behaviour.
 
 2015 - 2016
 :   *Post-doctorate Research Assistant at the Groupe Interdisciplinaire en Biomécanique Ostéoarticulaire et Cardiovasculaire, Institut des Sciences du Mouvement, Aix-Marseille Université* (France).
