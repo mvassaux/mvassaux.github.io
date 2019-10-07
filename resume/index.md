@@ -116,10 +116,15 @@ Scientific publications
 --------------------
 {: .collapsible}
 
+Toward High Fidelity Materials Property Prediction from Multiscale Modeling and Simulation.
+:   ***Vassaux, M.**, Sinclair, R.C., Richardson, R.A., Suter, J.L., Coveney, P.V.*
+
+    _Advanced Theory and Simulations_, _In Press_, 2019
+
 A biophysical model for curvature-guided cell migration.
 :   ***Vassaux, M.**, Pieuchot, L., Anselme, K., Bigerelle, M., Milan, J.-L.*
 
-    _Biophysical Journal_, _In Press_, 2019
+    _Biophysical Journal_, Volume 117, Issue 6, Pages 1136-1144, Septembre 2019
 
 The Role of Graphene in Enhancing the Material Properties of Thermosetting Polymers.
 :   ***Vassaux, M.**, Sinclair, R.C., Richardson, R.A., Suter, J.L., Coveney, P.V.*
