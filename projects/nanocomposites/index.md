@@ -71,7 +71,7 @@ Running loads of multiscale simulations, coordinating large amounts of computati
 ## the publications
 {: name="publications"}
 
-[1] Maxime Vassaux, Robert C. Sinclair, Robin A. Richardson, James L. Suter and Peter V. Coveney.<br>[*Toward high fidelity materials property prediction from multiscale modeling and simulation.*](){: target="_blank"}<br>Advanced Theory and Simulations, In press (2019).
+[1] Maxime Vassaux, Robert C. Sinclair, Robin A. Richardson, James L. Suter and Peter V. Coveney.<br>[*Toward high fidelity materials property prediction from multiscale modeling and simulation.*](https://doi.org/10.1002/adts.201900122){: target="_blank"}<br>Advanced Theory and Simulations, In press (2019).
 {: id="ptowa"}
 
 [2] Maxime Vassaux, Robin A. Richardson and Peter V. Coveney.<br>[*The heterogeneous multiscale method applied to inelastic polymer mechanics.*](https://doi.org/10.1098/rsta.2018.0150){: target="_blank"}<br>Philosophical Transactions of the Royal Society A, 377, 2142 (2019).
